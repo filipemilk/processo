@@ -11,6 +11,19 @@ var a = window.document.getElementById('area')
 var d = window.document.getElementById('dados')
 var arq = window.document.getElementById('arquivo')
 
+var login = window.document.getElementById('ilogin')
+var senha = window.document.getElementById('isenha')
+
+//________________________________________________________________________________
+
+function entrar() {
+  if ((login.value == "flpsystem" && senha.value == "abracadabra40") || (login.value == "admin" && senha.value == "admin")) {
+    window.open('processo.html')
+  } else {
+    window.alert('Usuário ou senha inválido!')
+  }
+}
+
 //________________________________________________________________________________
 
 document.addEventListener('keypress', function(e) {

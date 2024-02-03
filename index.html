@@ -15,7 +15,7 @@
             </div>
             <div id="formulario">
                 <h1>Login</h1>
-                <form action="" method="post" autocomplete="off">
+                <form action="" autocomplete="off">
                     <div class="campo">
                         <label for="ilogin"><span class="material-icons">person</span></label>
                         <input type="text" name="login" id="ilogin" placeholder="Usuário" required>
@@ -24,10 +24,11 @@
                         <label for="isenha"><span class="material-icons">vpn_key</span></label>
                         <input type="password" name="senha" id="isenha" placeholder="Senha" required minlength="8">
                     </div>
-                    <input type="submit" value="Entrar">
+                    <input type="submit" value="Entrar" id="but" onclick="entrar()">
                 </form>
             </div>
         </section>
     </main>
+    <script src="consulta.js"></script>
 </body>
 </html>
