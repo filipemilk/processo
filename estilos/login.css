@@ -13,12 +13,6 @@ body, html {
     height: 100vh;
 }
 
-main {
-    position: relative;
-    width: 100vw;
-    height: 100vh;
-}
-
 section#login {
     position: absolute;
     top: 50%;
