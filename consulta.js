@@ -18,7 +18,7 @@ var senha = window.document.getElementById('isenha')
 
 function entrar() {
   if ((login.value == "flpsystem" && senha.value == "abracadabra40") || (login.value == "admin" && senha.value == "admin")) {
-    window.open('processo.html')
+    window.location.href = "processo.html"
   } else {
     window.alert('Usuário ou senha inválido!')
   }
