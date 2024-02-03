@@ -7,9 +7,12 @@
     box-sizing: border-box;
 }
 
-body {
+body{
     background: rgb(79, 79, 209);
+    width: 100vw;
+    height: 100vh;
 }
+
 
 section#login {
     position: absolute;
