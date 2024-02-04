@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-body, html {
+body{
     background: rgb(79, 79, 209);
     width: 100vw;
     height: 100vh;
@@ -36,7 +36,7 @@ section#login {
 section#login > div#imagem {
     display: block;
     background: url(../imagens/pastas.jpg) no-repeat;
-    height: 200px;
+    height: 220px;
     background-position: top right;
     background-size: cover;
 }
