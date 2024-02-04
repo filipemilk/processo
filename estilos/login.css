@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-body{
+body, html {
     background: rgb(79, 79, 209);
     width: 100vw;
     height: 100vh;
