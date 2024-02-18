@@ -3,6 +3,9 @@
 body {
     background: rgb(79, 79, 209);
     font: normal 15pt Arial;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 header {
     color: white;
