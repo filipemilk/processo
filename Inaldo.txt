@@ -365,5 +365,6 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010012LZE0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010011N7X0000&processo.foro=1&conversationId=&cbPesquisa=NMADVOGADO&dadosConsulta.valorConsulta=maria+ronadja&cdForo=-1&paginaConsulta=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=010011MCC0000&processo.foro=1&conversationId=&cbPesquisa=NMADVOGADO&dadosConsulta.valorConsulta=maria+ronadja&cdForo=-1&paginaConsulta=1
 
-//MÉRITO
+//MÉRITO (TELMA, VERONICA)
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GH7R0000&processo.foro=1&processo.numero=0707773-84.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GHOK0000&processo.foro=1&processo.numero=0708224-12.2024.8.02.0001
