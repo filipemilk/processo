@@ -622,3 +622,7 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=250001DFG0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=0100189Q70000&processo.foro=1&processo.numero=0714900-44.2022.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=250001DF80000&processo.foro=77&processo.numero=0702052-25.2021.8.02.0077
 https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUNIFICADO=0701584-61.2021&foroNumeroUNIFICADO=0077&dePesquisaNuUNIFICADO=0701584-61.2021.8.02.0077&dePesquisaNuUNIFICADO=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO
+
+//MÉRITO (TELMA, VERONICA)
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GH7R0000&processo.foro=1&processo.numero=0707773-84.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GHOK0000&processo.foro=1&processo.numero=0708224-12.2024.8.02.0001
