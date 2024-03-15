@@ -39,7 +39,7 @@ document.addEventListener('keypress', function(e) {
 
 //________________________________________________________________________________
 
-function desabilitar(){
+function desabilitar() {
   if (selecao.value == "Autor") {
     autor.removeAttribute('disabled')
     myDate.setAttribute('disabled', '')
@@ -53,6 +53,21 @@ function desabilitar(){
 }
 
 selecao.addEventListener('input', desabilitar)
+
+//________________________________________________________________________________
+
+function letraMaiuscula() {
+  var palavra = autor.value.split(' ')
+
+  for (let i in palavra) {
+    if (palavra[i].length > 2) {
+      palavra[i] = palavra[i].charAt(0).toUpperCase() + palavra[i].slice(1).toLowerCase()
+    } else {
+      palavra[i] = palavra[i].toLowerCase()
+    }
+  }
+  nome = palavra.join(' ')
+}
 
 //________________________________________________________________________________
 
@@ -85,6 +100,7 @@ function abrirArquivo() {
     .then(text => {
       const lista = text.split('\n')
       const filtrado = lista.filter(x => x.substring(0,4) === 'http')      //O método trim() remove os espaços das tags vazias.
+      letraMaiuscula()
       consultar(filtrado)
     })
     .catch(error => {
@@ -100,7 +116,7 @@ function consultar(sites) {
   if (autor.disabled == true) {
     palavraChave = myDate.value.split('-').reverse().join('/')
   } else {
-    palavraChave = autor.value
+    palavraChave = nome
   }
 
   var siteAberto = 0
