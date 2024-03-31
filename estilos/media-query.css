@@ -40,12 +40,6 @@ Grandes telas: acima de 1280px
     footer {
         color: black;
     }
-
-    /*TELA DE CONSULTA*/
-
-    input#add {
-        margin-top: 0px;
-    }
 }
 
 @media screen and (min-width: 1025px) {/*CONFIGURAÇÃO PARA DESKTOP*/
@@ -76,11 +70,5 @@ Grandes telas: acima de 1280px
 
     footer {
         color: black;
-    }
-
-    /*TELA DE CONSULTA*/
-
-    input#add {
-        margin-top: 0px;
     }
 }
