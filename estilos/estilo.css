@@ -29,7 +29,7 @@ div {
 div#res {
     margin: 8px auto;
     overflow-x: auto;
-    width: calc(100% - 30px);
+    width: calc(100% - 34px);
 }
 p {
     padding: 8px;
