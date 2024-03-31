@@ -123,7 +123,7 @@ function consultar(sites) {
   var item = 0
 
   if (palavraChave != '') {
-    d.style.borderBottom = '1px solid #000'
+    res.style.borderTop = '1px solid #000'
     res.innerHTML = `<p>Total de Processos: ${sites.length}</p>`
     sites.forEach(site => {
       fetch(site)
@@ -131,9 +131,7 @@ function consultar(sites) {
         .then(text => {
           //Verificador de sites repetidos!
           if(sites.indexOf(sites[item]) != item) {
-            res.innerHTML += `<p>Endereço repetido:</p> ${sites[item]}`
-            a.style.maxWidth = '1000px'
-            d.style.textAlign = 'center'
+            res.innerHTML += `<p>Endereço repetido:</p> <p>${sites[item]}</p>`
           }
           item++
 
@@ -153,9 +151,7 @@ function consultar(sites) {
         })
         .catch(error => {
           //console.error(`Ocorreu um erro ao acessar o site ${site}:`, error);
-          res.innerHTML += `<p>O endereço de site está inválido:</p> ${site}`
-          a.style.maxWidth = '1000px'
-          d.style.textAlign = 'center'
+          res.innerHTML += `<p>O endereço de site está inválido:</p> <p>${site}</p>`
         });
     })
   } else if (myDate.disabled == true) {
