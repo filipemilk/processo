@@ -46,8 +46,8 @@ select {
 legend {
     font-size: 0.8em;
     font-weight: bold;
-    margin: 8px;
-    padding: 2px;
+    margin: 0px 8px;
+    padding: 0px 2px;
 }
 input#ilink {
     height:33px;
