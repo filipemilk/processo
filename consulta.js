@@ -60,10 +60,10 @@ function letraMaiuscula() {
   var palavra = autor.value.split(' ')
 
   for (let i in palavra) {
-    if (palavra[i].length > 3) {
-      palavra[i] = palavra[i].charAt(0).toUpperCase() + palavra[i].slice(1).toLowerCase()
-    } else {
+    if (palavra[i].length <= 3 && (palavra[i].charAt(0) == 'd' || palavra[i].charAt(0) == 'D')) { //Ex. de, dos, das...
       palavra[i] = palavra[i].toLowerCase()
+    } else {
+      palavra[i] = palavra[i].charAt(0).toUpperCase() + palavra[i].slice(1).toLowerCase()
     }
   }
   nome = palavra.join(' ')
