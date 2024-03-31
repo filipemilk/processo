@@ -22,6 +22,7 @@ section{
 fieldset {
     background-color: rgb(245, 245, 245);
     padding: 8px;
+    border-radius: 10px;
 }
 div {
     padding: 8px;
@@ -45,6 +46,8 @@ select {
 legend {
     font-size: 0.8em;
     font-weight: bold;
+    margin: 8px;
+    padding: 2px;
 }
 input#ilink {
     height:33px;
