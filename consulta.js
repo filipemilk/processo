@@ -60,6 +60,14 @@ function botaoVerde() {
   btnConsulta.style.background = 'green'
   btnConsulta.value = "Consultando..."
   btnConsulta.setAttribute('disabled', '')
+
+  btnConsulta.addEventListener('mouseover', function() {
+    btnConsulta.style.background = 'green'
+  })
+
+  btnConsulta.addEventListener('mouseout', function() {
+    btnConsulta.style.background = 'green'
+  })
 }
 //________________________________________________________________________________
 
@@ -67,8 +75,17 @@ function botaoAzul() {
   btnConsulta.style.background = 'rgb(79, 79, 209)'
   btnConsulta.value = "Consultar"
   btnConsulta.removeAttribute('disabled')
+
+  btnConsulta.addEventListener('mouseover', function() {
+    btnConsulta.style.background = 'rgb(64, 64, 168)'
+  })
+
+  btnConsulta.addEventListener('mouseout', function() {
+    btnConsulta.style.background = 'rgb(79, 79, 209)'
+  })
 }
 //________________________________________________________________________________
+
 function letraMaiuscula() {
   var palavra = autor.value.split(' ')
 
