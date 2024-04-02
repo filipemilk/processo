@@ -17,6 +17,8 @@ var autor = window.document.getElementById('inome')
 var login = window.document.getElementById('ilogin')
 var senha = window.document.getElementById('isenha')
 
+var btnConsulta = document.getElementById('but-consulta')
+
 //________________________________________________________________________________
 
 function entrar() {
@@ -31,12 +33,10 @@ function entrar() {
 
 document.addEventListener('keypress', function(e) {
   if(e.key === "Enter") {
-    const btn = document.getElementById('but')
-    btn.click()
+    btnConsulta.click()
     e.preventDefault() //Parar o evento.
   }
 })
-
 //________________________________________________________________________________
 
 function desabilitar() {
@@ -56,6 +56,19 @@ selecao.addEventListener('input', desabilitar)
 
 //________________________________________________________________________________
 
+function botaoVerde() {
+  btnConsulta.style.background = 'green'
+  btnConsulta.value = "Consultando..."
+  btnConsulta.setAttribute('disabled', '')
+}
+//________________________________________________________________________________
+
+function botaoAzul() {
+  btnConsulta.style.background = 'rgb(79, 79, 209)'
+  btnConsulta.value = "Consultar"
+  btnConsulta.removeAttribute('disabled')
+}
+//________________________________________________________________________________
 function letraMaiuscula() {
   var palavra = autor.value.split(' ')
 
@@ -123,6 +136,7 @@ function consultar(sites) {
   var item = 0
 
   if (palavraChave != '') {
+    botaoVerde()
     res.style.borderTop = '1px solid #000'
     res.innerHTML = `<p>Total de Processos: ${sites.length}</p>`
     sites.forEach(site => {
@@ -140,12 +154,15 @@ function consultar(sites) {
             window.open(site, '_blank') // Abre o site em uma nova aba
             siteAberto++
             window.alert(`Total de sites abertos: ${siteAberto}`)
+            botaoAzul()
           } else if (siteAberto == 0 && item == sites.length) {
             // console.log(`A palavra "${palavraChave}" não foi encontrada no site ${site}.`);
             if (myDate.disabled == true) {
               window.alert(`Nenhum processo encontrado com este nome: ${palavraChave}`)
+              botaoAzul()
             } else {
               window.alert(`Não há processo tramitado nesta data: ${palavraChave}`)
+              botaoAzul()
             } 
           }
         })
