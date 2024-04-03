@@ -41,7 +41,7 @@ h1 {
 }
 select {
     height:33px;
-    width:207px;
+    width:212px;
 }
 legend {
     font-size: 0.8em;
@@ -56,12 +56,12 @@ input#ilink {
 }
 input#inome {
     height: 33px;
-    width: 227px;
+    width: 232px;
     text-transform: capitalize;
 }
 input#data {
     height:33px;
-    width:155px
+    width:160px
 }
 input[type="button"] {
     height:33px;
