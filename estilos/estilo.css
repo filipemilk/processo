@@ -56,12 +56,12 @@ input#ilink {
 }
 input#inome {
     height: 33px;
-    width: 300px;
+    width: 227px;
     text-transform: capitalize;
 }
 input#data {
     height:33px;
-    width:150px
+    width:154px
 }
 input[type="button"] {
     height:33px;
