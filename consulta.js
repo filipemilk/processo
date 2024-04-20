@@ -163,6 +163,7 @@ function consultar(sites) {
           //Verificador de sites repetidos!
           if(sites.indexOf(sites[item]) != item) {
             res.innerHTML += `<p>Endereço repetido:</p> <p>${sites[item]}</p>`
+            botaoAzul()
           }
           item++
 
@@ -186,6 +187,7 @@ function consultar(sites) {
         .catch(error => {
           //console.error(`Ocorreu um erro ao acessar o site ${site}:`, error);
           res.innerHTML += `<p>O endereço de site está inválido:</p> <p>${site}</p>`
+          botaoAzul()
         });
     })
   } else if (myDate.disabled == true) {
