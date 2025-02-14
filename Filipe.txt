@@ -67,7 +67,6 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JDSE0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JDLZ0000&processo.foro=1&processo.numero=0714990-81.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JDAN0000&processo.foro=1&processo.numero=0714988-14.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001KQQM0000&processo.foro=1&processo.numero=0716232-75.2024.8.02.0001
-https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EGHV0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JE6W0000&processo.foro=1&processo.numero=0714993-36.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001F5920001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F08L0000&processo.foro=1&processo.numero=0719953-69.2023.8.02.0001
