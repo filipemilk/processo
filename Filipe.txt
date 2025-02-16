@@ -42,7 +42,7 @@ ANA PAULA
 
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FUWT0000&processo.foro=1&processo.numero=0751279-47.2023.8.02.0001
 
-MÉRITO 2005-2010 (ANDRÉA-ADRIANA-JULIANA, DIVA, LEILA, BUGARI, JOÃO, TELMA, VERONICA, TÂNIA NÚBIA, IRENILCE, ADEILTON, ROSA CACILDA)
+MÉRITO 2005-2010 (ANDRÉA-ADRIANA-JULIANA, DIVA, LEILA, BUGARI, JOÃO, TELMA, VERONICA, TÂNIA NÚBIA, IRENILCE, ADEILTON, ROSA CACILDA, JOSEFA, EDIONI, LUIZ MARCOS, MARIA LOURINALDA, ANA CRISTINA, CLAUDIA ROBERTA, DAYSE, DYRLEI, ELIDEIZE)
 
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FT0W0000&processo.foro=1&processo.numero=0749512-71.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001FZU10000&processo.foro=1&processo.numero=0701178-69.2024.8.02.0001
@@ -55,8 +55,17 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GJDD0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001NJO60000&processo.foro=1&processo.numero=0720641-94.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001NS7O0000&processo.foro=1&processo.numero=0726157-95.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OAFQ0000&processo.foro=1&processo.numero=0744149-69.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001HN1M0000&processo.foro=1&processo.numero=0713809-45.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001NN3G0000&processo.foro=1&processo.numero=0721266-31.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GIL70000&processo.foro=1&processo.numero=0709039-09.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JGI90000&processo.foro=1&processo.numero=0715024-56.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OAHY0000&processo.foro=1&processo.numero=0744193-88.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OBKK0000&processo.foro=1&processo.numero=0745308-47.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OBGR0000&processo.foro=1&processo.numero=0745190-71.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001IT5V0000&processo.foro=1&processo.numero=0714936-18.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001NQT60000&processo.foro=1&processo.numero=0724782-59.2024.8.02.0001
 
-PIMENTEL (SOCORRO, VANDITE, POOLIANA, JOSELIANA, ELISANDRA, ELIZABETH, IZABELE, PEDRO, ROSILDA, THIAGO, GERSON)
+PIMENTEL (SOCORRO, VANDITE, POOLIANA, JOSELIANA, ELISANDRA, ELIZABETH, IZABELE, PEDRO, ROSILDA, THIAGO, GERSON, ALINE)
 
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001AINE0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EGHS0003&processo.foro=1
@@ -79,9 +88,14 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OFRZ0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OFX20000&processo.foro=1&processo.numero=0749926-35.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001ED350000&processo.foro=1&processo.numero=0746105-91.2022.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EE6X0001&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001EE7P0000&processo.foro=1&processo.numero=0700765-90.2023.8.02.0001
 
 FLAVIA
 
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001F3IN0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001F3KD0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001RA3H0000&processo.foro=1&processo.numero=0703973-14.2025.8.02.0001
+
+DAYSE
+
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001O8860000&processo.foro=1&processo.numero=0741891-86.2024.8.02.0001
