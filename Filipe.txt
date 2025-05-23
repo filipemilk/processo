@@ -13,6 +13,8 @@ https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=0
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01000ZXCL0002&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01000RRH90001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01000X0LB0001&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01000RRH90002&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001FNRV0001&processo.foro=1
 
 
 ORACIO  
