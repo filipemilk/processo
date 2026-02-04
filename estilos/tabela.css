@@ -2,11 +2,29 @@
 
 * {
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
 }
 
 table {
-    
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+tr#cabecalho {
+    border: 2px solid black;
+}
+
+th {
+    border: 1px solid black;
+    padding: 8px;
+    color: white;
+    background-color: rgb(79, 79, 209);
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+td.celula {
+    background-color: rgb(81, 233, 81);
 }
