@@ -96,6 +96,9 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001ED350000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EE6X0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001EE7P0000&processo.foro=1&processo.numero=0700765-90.2023.8.02.0001
 
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001JE6W0001&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001ED350001&processo.foro=1
+
 FLAVIA
 
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001F3IN0001&processo.foro=1
