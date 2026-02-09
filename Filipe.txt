@@ -97,7 +97,9 @@ https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001EOBV0000&processo.fo
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EOBV0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F4IG0000&processo.foro=1&processo.numero=0724589-78.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EF0N0001&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001EF0N0000&processo.foro=1&processo.numero=0701504-63.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001IVN80000&processo.foro=1&processo.numero=0714948-32.2024.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001IVN80001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001ODU40000&processo.foro=1&processo.numero=0747796-72.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OFRZ0000&processo.foro=1&processo.numero=0749793-90.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001OFX20000&processo.foro=1&processo.numero=0749926-35.2024.8.02.0001
