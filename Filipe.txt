@@ -91,7 +91,9 @@ https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=0&cbPes
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001KQQM0000&processo.foro=1&processo.numero=0716232-75.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001JE6W0000&processo.foro=1&processo.numero=0714993-36.2024.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001F5920001&processo.foro=1
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F5920000&processo.foro=1&processo.numero=0725379-62.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F08L0000&processo.foro=1&processo.numero=0719953-69.2023.8.02.0001
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001EOBV0000&processo.foro=1&processo.numero=0710603-57.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EOBV0001&processo.foro=1
 https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001F4IG0000&processo.foro=1&processo.numero=0724589-78.2023.8.02.0001
 https://www2.tjal.jus.br/cpopg/show.do?localPesquisa.cdLocal=1&processo.codigo=01001EF0N0001&processo.foro=1
