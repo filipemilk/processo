@@ -85,7 +85,7 @@ function botaoAzul() {
   })
 }
 //________________________________________________________________________________
-
+/*
 function letraMaiuscula() {
   var palavra = autor.value.split(' ')
 
@@ -98,7 +98,7 @@ function letraMaiuscula() {
   }
   nome = palavra.join(' ')
 }
-
+*/
 //________________________________________________________________________________
 
 function dataHoje() { 
@@ -130,7 +130,7 @@ function abrirArquivo() {
     .then(text => {
       const lista = text.split('\n')
       const filtrado = lista.filter(x => x.substring(0,4) === 'http')      //O método trim() remove os espaços das tags vazias.
-      letraMaiuscula()
+      //letraMaiuscula()
       consultar(filtrado)
     })
     .catch(error => {
@@ -146,7 +146,7 @@ function consultar(sites) {
   if (autor.disabled == true) {
     palavraChave = myDate.value.split('-').reverse().join('/')
   } else {
-    palavraChave = nome
+    palavraChave = autor.value
   }
 
   var siteAberto = 0

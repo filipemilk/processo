@@ -57,7 +57,6 @@ input#ilink {
 input#inome {
     height: 33px;
     width: 232px;
-    text-transform: capitalize;
 }
 input#data {
     height:33px;
