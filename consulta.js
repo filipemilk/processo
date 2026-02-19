@@ -42,10 +42,12 @@ document.addEventListener('keypress', function(e) {
 function desabilitar() {
   if (selecao.value == "Autor") {
     autor.removeAttribute('disabled')
+    autor.setAttribute('placeholder', 'Digite o nome respeitando maiúsculas e minúsculas...')
     myDate.setAttribute('disabled', '')
     myDate.value = ''
   } else {
     autor.setAttribute('disabled', '')
+    autor.removeAttribute('placeholder')
     myDate.removeAttribute('disabled')
     autor.value = ''
     dataHoje()

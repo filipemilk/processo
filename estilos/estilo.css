@@ -58,6 +58,9 @@ input#inome {
     height: 33px;
     width: 232px;
 }
+input:focus::placeholder {
+  color: transparent;
+}
 input#data {
     height:33px;
     width:160px
