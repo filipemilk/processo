@@ -18,6 +18,7 @@ div#container {
 table {
     border-collapse: collapse;
     border: 2px solid black;
+    margin: 0.5px;
 }
 
 thead {
