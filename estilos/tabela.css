@@ -8,14 +8,13 @@
 
 h1 {
     text-align: center;
-    margin: 20px 0px 20px 0px;
+    margin: 20px auto;
 }
 
 table {
     border-collapse: collapse;
     border: 2px solid black;
     margin: auto;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.521);
 }
 
 thead {
@@ -35,4 +34,11 @@ th, td {
 
 td.celula {
     background-color: rgb(81, 233, 81);
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    margin: 20px auto;
+    color: rgb(79, 79, 209);
 }
