@@ -11,14 +11,11 @@ h1 {
     margin: 20px 0px 20px 0px;
 }
 
-div#container {
-   
-}
-
 table {
     border-collapse: collapse;
     border: 2px solid black;
-    margin: 2px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.521);
 }
 
 thead {
