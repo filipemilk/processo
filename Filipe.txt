@@ -21,6 +21,11 @@ https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=0&cbPes
 https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0748949-43.2024&foroNumeroUnificado=0001&dePesquisaNuUnificado=0748949-43.2024.8.02.0001&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO
 https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0762367-14.2025&foroNumeroUnificado=0001&dePesquisaNuUnificado=0762367-14.2025.8.02.0001&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO
 
+PRECATÓRIO
+
+https://www2.tjal.jus.br/cpopg/show.do?processo.codigo=01001GIWH0000&processo.foro=1&processo.numero=0500988-90.2024.8.02.0001
+https://www2.tjal.jus.br/cposg5/search.do?conversationId=&paginaConsulta=1&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=0500988-90.2024&foroNumeroUnificado=0001&dePesquisaNuUnificado=0500988-90.2024.8.02.0001&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO
+
 
 ORACIO  
 
