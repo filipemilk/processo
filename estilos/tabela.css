@@ -32,8 +32,12 @@ th, td {
     padding: 10px;
 }
 
-td.celula {
+td.pago {
     background-color: rgb(81, 233, 81);
+}
+
+td.parcial {
+    background-color: rgb(218, 233, 81);
 }
 
 tfoot {
